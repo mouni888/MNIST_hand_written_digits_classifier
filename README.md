@@ -1,0 +1,2 @@
+# MNIST_hand_written_digits_classifier
+Machine Learning Project
